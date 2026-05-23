@@ -43,19 +43,19 @@ src/
 
 ## Ejecución del programa
 
-![Ejecución Wallet](img/Screenshot_1.png)
+![Ejecución Wallet](/modulo%202/img/Screenshot_1.png)
 
 ## Menú interactivo
 
-![Menú interactivo](img/mScreenshot_2.png)
+![Menú interactivo](/modulo%202/img/Screenshot_2.png)
 
 ## Historial de transacciones
 
-![Historial](img/Screenshot_3.png)
+![Historial](/modulo%202/img/Screenshot_3.png)
 
 ## Pruebas unitarias
 
-![Tests](img/Screenshot_4.png)
+![Tests](/modulo%202/img/Screenshot_4.png)
 
 
 ## Diagrama de clases 
