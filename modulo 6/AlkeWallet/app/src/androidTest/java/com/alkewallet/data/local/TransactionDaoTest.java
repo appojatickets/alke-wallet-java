@@ -1,4 +1,4 @@
-package com.alkewallet.local;
+package com.alkewallet.data.local;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertNotNull;
